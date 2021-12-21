@@ -11,6 +11,10 @@ permalink: /search/
 
 <script src="{{ site.baseurl }}/assets/simple-jekyll-search.min.js" type="text/javascript"></script>
 
+*TODO*
+* do not display dates in results
+* make display of search results more concise?
+
 <script>
     SimpleJekyllSearch({
     searchInput: document.getElementById('search-input'),
