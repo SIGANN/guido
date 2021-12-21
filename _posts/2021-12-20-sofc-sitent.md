@@ -1,0 +1,7 @@
+---
+layout: post
+title: Situation Entities
+categories: Clause Labeling,Sentence Labeling,Lexical Aspect,Grammatical Aspect,Linguistics
+---
+
+TODO: define some structure here for the entries
