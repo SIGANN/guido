@@ -11,3 +11,5 @@ We welcome contributions to this collection.
 Please follow the steps in the [README](https://github.com/SIGANN/guido).
 
 *Alternatively, we could accept the filled-out post.md via e-mail to make it easier? create a mailing list for admins, e.g., Amir, Ines, Anne, Nathan?*
+
+*Need to define where to put images (simply the images folder?) and files (e.g. PDF). What is the file size we accept?*
