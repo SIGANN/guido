@@ -2,7 +2,6 @@
 layout: post
 title: SOFC-Exp Corpus
 categories: [Named Entities, Event Extraction, Semantic Role Labeling]
-last_modified_at:2012-12-22
 ---
 
 <!--- Main URL: add exactly one link here, replacing only the URL --->
