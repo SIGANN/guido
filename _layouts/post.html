@@ -21,20 +21,6 @@ layout: default
       {% endfor %}
     </div>
   </div>
-  
-	<!-- Structured content -->
-<div>
-	{% if page.main_url %}
-	Link: <a href="{{ page.main_url }}">{{ page.main_url }}</a>
-	{% endif %}
-	{% if page.teaser_img %}
-	<img src="{{ site.baseurl }}/images/{{ page.teaser_img }}" alt="No teaser image"/>
-	{% endif %}
-</div>
-
-  <div class="entry">
-    {{ content }}
-  </div>
 
   <!--div>
     <p><span class="share-box">Share:</span> <a href="http://twitter.com/share?text={{ page.title }}&url={{site.url}}{{page.url}}" target="_blank">Twitter</a>, <a href="https://www.facebook.com/sharer.php?u={{site.url}}{{page.url}}" target="_blank">Facebook</a></p>
