@@ -13,7 +13,6 @@ permalink: /search/
 
 *TODO*
 
-* do not display dates in results
 * make display of search results more concise?
 * display hits in alphabetical instead of temporal order (yet for the posts the date numbering might not be bad because it lets us keep track of when things have been added etc. and give the page a feel of being up to date on the landing page)
 
@@ -21,7 +20,7 @@ permalink: /search/
     SimpleJekyllSearch({
     searchInput: document.getElementById('search-input'),
     resultsContainer: document.getElementById('results-container'),
-    searchResultTemplate: '<div style="text-align: left !important;"><a href="{url}"><h1 style="text-align:left !important;">{title}</h1></a><span style="text-align:left !important;">{date}</span></div>',
+    searchResultTemplate: '<div style="text-align: left !important;"><a href="{url}"><h1 style="text-align:left !important;">{title}</h1></a></div>',
     json: '{{ site.baseurl }}/search.json'
     });
 </script>
