@@ -4,12 +4,15 @@ permalink: /categories/
 title: Categories
 ---
 
-<div class="post-tags">
-      {% for category in site.categories %}
-        <a href="{{site.baseurl}}/categories/#{{category|slugize}}">{{category}}</a>
-        {% unless forloop.last %}&nbsp;{% endunless %}
-      {% endfor %}
-   </div>
+<div>
+{% for category in site.categories %}
+  <div class="archive-group">
+    {% capture category_name %}{{ category | first }}{% endcapture %}
+    <div id="#{{ category_name | slugize }}"></div>
+    <a href="{{site.baseurl}}/categories/#{{category_name|slugize}}">{{category_name}}</a>
+
+ {% endfor %}
+ </div>
 
 <div id="archives">
 {% for category in site.categories %}
@@ -22,7 +25,7 @@ title: Categories
     <a name="{{ category_name | slugize }}"></a>
     {% for post in site.categories[category_name] %}
     <article class="archive-item">
-      <h4><a href="{{ site.baseurl }}{{ post.url }}">{% if post.title and post.title != "" %}{{post.title}}{% else %}{{post.excerpt |strip_html}}{%endif%}</a></h4>
+      <h4><a href="{{ site.baseurl }}{{ post.url }}">{% if post.title and post.title != "" %}{{post.title}}{% else %}{{post.excerpt |strip_html}}{%endif%}             </a></h4>
     </article>
     {% endfor %}
   </div>
