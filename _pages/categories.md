@@ -10,8 +10,8 @@ title: Categories
     {% capture category_name %}{{ category | first }}{% endcapture %}
     <div id="#{{ category_name | slugize }}"></div>
     <a href="{{site.baseurl}}/categories/#{{category_name|slugize}}">{{category_name}}</a>
-
- {% endfor %}
+  </div>
+    {% endfor %}
  </div>
 
 <div id="archives">
