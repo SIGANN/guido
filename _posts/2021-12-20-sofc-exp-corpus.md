@@ -33,5 +33,5 @@ You can also use the [Hugginface Datasets implementation](https://huggingface.co
 <!-- Any further references, links etc. -->
 # References
 
-    Annemarie Friedrich, Heike Adel, Federico Tomazic, Johannes Hingerl, Renou Benteau, Anika Maruscyk and Lukas Lange. [The SOFC-Exp Corpus and Neural Approaches to Information Extraction in the Materials Science Domain.](https://aclanthology.org/2020.acl-main.116/) ACL 2020.
+Annemarie Friedrich, Heike Adel, Federico Tomazic, Johannes Hingerl, Renou Benteau, Anika Maruscyk and Lukas Lange. [The SOFC-Exp Corpus and Neural Approaches to Information Extraction in the Materials Science Domain.](https://aclanthology.org/2020.acl-main.116/) ACL 2020.
 
