@@ -9,6 +9,7 @@ categories: [Named Entities, Event Extraction, Semantic Role Labeling]
 [Link to Annotation Guidelines](https://github.com/boschresearch/sofc-exp_textmining_resources)
 
 <!--- Languages adressed -->
+# Languages
 * English
 
 <!-- Teaser image, delete next line if none -->
@@ -26,6 +27,7 @@ The dataset, along with detailed annotation guidelines, is publicly available in
 You can also use the [Huggingface Datasets implementation](https://huggingface.co/datasets/sofc_materials_articles).
 
 <!-- Domains and Genres -->
+# Domains and Genres
 * Materials Science
 * Scientific Text
 
