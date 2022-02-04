@@ -23,7 +23,7 @@ The SOFC-Exp corpus contains 45 scientific publications about solid oxide fuel c
 * In addition, we provide coarse-grained entity/concept types for all frame participants, i.e, MATERIAL, VALUE or DEVICE. Note that this annotation has not been performed on the full texts but only on sentences containing information about relevant experiments, and a few sentences in addition. In the paper, we run experiments for both tasks only on the set of sentences marked as experiment-describing in the gold standard, which is admittedly a slightly simplified setting. Entity types are only partially annotated on other sentences. Slot filling could of course also be evaluated in a fully automatic setting with automatic experiment sentence detection as a first step.
 
 The dataset, along with detailed annotation guidelines, is publicly available in a custom stand-off format (similar to Brat) under CC-BY at [GitHub](https://github.com/boschresearch/sofc-exp_textmining_resources/).
-You can also use the [Hugginface Datasets implementation](https://huggingface.co/datasets/sofc_materials_articles).
+You can also use the [Huggingface Datasets implementation](https://huggingface.co/datasets/sofc_materials_articles).
 
 <!-- Domains and Genres -->
 * Materials Science
