@@ -30,13 +30,17 @@ You can look [here](https://github.com/SIGANN/guido/tree/main/_posts) for some e
 
 ### Step 2: Create a branch.
 Type the name determined in Step 1 into the branches field (see screenshot below) and click "create branch".
-![](http://sigann.github.io/guido/images/guido1.png)
+
+<img src="http://sigann.github.io/guido/images/guido1.png" alt="Screenshot" width="400"/>
+
 Now, it should look like this:
-![](http://sigann.github.io/guido/images/guido2.png)
+
+<img src="http://sigann.github.io/guido/images/guido2.png" alt="Screenshot" width="400"/>
 
 ### Step 3: Create your entry.
 Go to the folder called ``_posts`` and create a new file called ``yyyy-mm-dd-your-title.md``.
-<img src="http://sigann.github.io/guido/images/guido3.png" width="200" alt="screenshot"/>
+
+<img src="http://sigann.github.io/guido/images/guido3.png" width="400" alt="screenshot"/>
 
 The file will be automatically opened in edit mode.
 Copy the contents of the [template file](https://raw.githubusercontent.com/SIGANN/guido/main/templates/template.md) into the file that you have just created.
@@ -47,19 +51,23 @@ You can add them by clicking on this button. After selecting your image(s), plea
 
 We also offer to host annotation guidelines files but only if they are not hosted elsewhere.
 If you would like to attach PDF files, you can put them into the ``attachments'' folder. You can then link them as follows (instead of using the URL as indicated in the template):
-``[Link to Annotation Guidelines](http://sigann.github.io/guido/images/your-attachment-filename.png)''
+``[Link to Annotation Guidelines](http://sigann.github.io/guido/images/your-attachment-filename.pdf)''
 
 Scroll to bottom and click ``Commit changes''.
 
 ### Step 4: Almost done, tell us about it!
 Go to the ``branches`` view (see image how to get there).
-![](http://sigann.github.io/guido/images/guido5.png)
+
+<img src="http://sigann.github.io/guido/images/guido5.png" alt="Screenshot" width="400"/>
 
 Then, at your branch, click ``New pull request``.
-![](http://sigann.github.io/guido/images/guido6.png)
 
-Enter a message if you like and submit.
-![](http://sigann.github.io/guido/images/guido8.png)
+<img src="http://sigann.github.io/guido/images/guido6.png" alt="Screenshot" width="400"/>
+
+Enter a message and submit.
+
+<img src="http://sigann.github.io/guido/images/guido8.png" alt="Screenshot" width="400"/>
+
 
 That's it.
 
