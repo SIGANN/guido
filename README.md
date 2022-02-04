@@ -24,7 +24,7 @@ SIGANN Guido is based on the [Reverie template](http://www.amitmerchant.com/reve
 
 We welcome contributions of annotation guideline entries. Please follow the steps below to add your guidelines (or anyone else's, if you think they should be part of the repository) to Guido.
 
-### Step 1: Determine name for your entry.
+### Step 1: Determine a name for your entry.
 The name for your entry should be ``yyyy-mm-dd-your-title`` where the date corresponds to the day you are adding the entry, and the title can be any informative name.
 You can look [here](https://github.com/SIGANN/guido/tree/main/_posts) for some examples.
 
