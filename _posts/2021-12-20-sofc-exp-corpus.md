@@ -8,6 +8,9 @@ categories: [Named Entities, Event Extraction, Semantic Role Labeling]
 <!--- more links only if absolutely necessary, e.g., if there are several languages and you do not see a point of adding another page. -->
 [Link to Annotation Guidelines](https://github.com/boschresearch/sofc-exp_textmining_resources)
 
+<!--- Languages adressed -->
+* English
+
 <!-- Teaser image, delete next line if none -->
 ![](http://sigann.github.io/guido/images/sofc-exp-corpus.png)
 
@@ -21,6 +24,10 @@ The SOFC-Exp corpus contains 45 scientific publications about solid oxide fuel c
 
 The dataset, along with detailed annotation guidelines, is publicly available in a custom stand-off format (similar to Brat) under CC-BY at [GitHub](https://github.com/boschresearch/sofc-exp_textmining_resources/).
 You can also use the [Hugginface Datasets implementation](https://huggingface.co/datasets/sofc_materials_articles).
+
+<!-- Domains and Genres -->
+* Materials Science
+* Scientific Text
 
 
 <!-- Any further references, links etc. -->
