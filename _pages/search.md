@@ -11,9 +11,6 @@ permalink: /search/
 
 <script src="{{ site.baseurl }}/assets/simple-jekyll-search.min.js" type="text/javascript"></script>
 
-*TODO*
-* display hits in alphabetical instead of temporal order
-
 <script>
     SimpleJekyllSearch({
     searchInput: document.getElementById('search-input'),
