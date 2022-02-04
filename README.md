@@ -55,7 +55,7 @@ Scroll to bottom and click ``Commit changes''.
 Go to the ``branches`` view (see image how to get there).
 ![](http://sigann.github.io/guido/images/guido5.png)
 
-Then, at your branch, click ``Create pull request``.
+Then, at your branch, click ``New pull request``.
 ![](http://sigann.github.io/guido/images/guido6.png)
 
 Enter a message if you like and submit.
