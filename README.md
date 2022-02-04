@@ -31,16 +31,16 @@ You can look [here](https://github.com/SIGANN/guido/tree/main/_posts) for some e
 ### Step 2: Create a branch.
 Type the name determined in Step 1 into the branches field (see screenshot below) and click "create branch".
 
-<img src="http://sigann.github.io/guido/images/guido1.png" alt="Screenshot" width="400"/>
+<img src="http://sigann.github.io/guido/images/guido1.png" alt="Screenshot" width="600"/>
 
 Now, it should look like this:
 
-<img src="http://sigann.github.io/guido/images/guido2.png" alt="Screenshot" width="400"/>
+<img src="http://sigann.github.io/guido/images/guido2.png" alt="Screenshot" width="600"/>
 
 ### Step 3: Create your entry.
 Go to the folder called ``_posts`` and create a new file called ``yyyy-mm-dd-your-title.md``.
 
-<img src="http://sigann.github.io/guido/images/guido3.png" width="400" alt="screenshot"/>
+<img src="http://sigann.github.io/guido/images/guido3.png" width="600" alt="screenshot"/>
 
 The file will be automatically opened in edit mode.
 Copy the contents of the [template file](https://raw.githubusercontent.com/SIGANN/guido/main/templates/template.md) into the file that you have just created.
@@ -58,15 +58,15 @@ Scroll to bottom and click ``Commit changes''.
 ### Step 4: Almost done, tell us about it!
 Go to the ``branches`` view (see image how to get there).
 
-<img src="http://sigann.github.io/guido/images/guido5.png" alt="Screenshot" width="400"/>
+<img src="http://sigann.github.io/guido/images/guido5.png" alt="Screenshot" width="600"/>
 
 Then, at your branch, click ``New pull request``.
 
-<img src="http://sigann.github.io/guido/images/guido6.png" alt="Screenshot" width="400"/>
+<img src="http://sigann.github.io/guido/images/guido6.png" alt="Screenshot" width="600"/>
 
 Enter a message and submit.
 
-<img src="http://sigann.github.io/guido/images/guido8.png" alt="Screenshot" width="400"/>
+<img src="http://sigann.github.io/guido/images/guido8.png" alt="Screenshot" width="600"/>
 
 
 That's it.
