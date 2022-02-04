@@ -36,7 +36,7 @@ Now, it should look like this:
 
 ### Step 3: Create your entry.
 Go to the folder called ``_posts`` and create a new file called ``yyyy-mm-dd-your-title.md``.
-![](http://sigann.github.io/guido/images/guido3.png)
+<img src="http://sigann.github.io/guido/images/guido3.png" width="200" alt="screenshot"/>
 
 The file will be automatically opened in edit mode.
 Copy the contents of the [template file](https://raw.githubusercontent.com/SIGANN/guido/main/templates/template.md) into the file that you have just created.
