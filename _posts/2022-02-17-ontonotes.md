@@ -13,7 +13,7 @@ categories: [Tagging, Named Entities, Semantic Role Labeling, Coreference, Synta
 * Mandarin Chinese
 
 <!-- Teaser image, delete next line if none -->
-![](2022-02-17-ontonotes.png)
+![](http://sigann.github.io/guido/images/2022-02-17-ontonotes.png)
 
 <!-- Description -->
 # Description
