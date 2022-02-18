@@ -5,7 +5,7 @@ categories: [Tagging, Named Entities, Semantic Role Labeling, Coreference, Synta
 ---
 
 <!--- Main URL: add exactly one link here, replacing only the URL --->
-[Link to Annotation Guidelines](https://www.isi.edu/~marcu/discourse/tagging-ref-manual.pdf)
+[Link to Corpus](https://catalog.ldc.upenn.edu/LDC2013T19)
 
 <!--- Languages -->
 * Arabic
@@ -13,7 +13,7 @@ categories: [Tagging, Named Entities, Semantic Role Labeling, Coreference, Synta
 * Mandarin Chinese
 
 <!-- Teaser image, delete next line if none -->
-![](http://sigann.github.io/guido/images/2022-02-17-rstdt.png)
+![](2022-02-17-ontonotes.png)
 
 <!-- Description -->
 # Description
